@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1635421938,
+	"version": 1635598304,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,7 @@
 		"images/noorebattery-sheet1.png",
 		"images/noorebattery-sheet2.png",
 		"images/handguid-sheet0.png",
+		"images/sprite4-sheet0.png",
 		"media/foliage1.m4a",
 		"media/foliage1.ogg",
 		"media/foliage2.m4a",
